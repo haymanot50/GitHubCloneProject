@@ -1,1 +1,6 @@
-This is the description of my repo
+# GitHubCloneProject
+
+This is a Git project for practicing GitHub cloning and collaboration.
+
+Objective: Practice branching, merging, and resolving conflicts.
+
